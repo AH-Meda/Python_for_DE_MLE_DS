@@ -1,5 +1,5 @@
 # Python_for_DE_MLE_DS
-Here, I aim to provide compact yet comprehensive Python fundamentals tailored for Data Engineers, Machine Learning Engineers, and Data Scientists. The contents of this repository include, but are not limited to:
+This repo provides compact yet comprehensive Python fundamentals tailored for Data Engineers, Machine Learning Engineers, and Data Scientists. The contents of this repository include, but are not limited to:
 
 * Primitive Data Types, Python Variables, and Expressions
 * Non-Primitive Data Structures: Lists, Tuples, Sets, and Dictionaries
